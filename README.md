@@ -1,6 +1,9 @@
 # buscador
 
-A new Flutter project.
+O projeto é um aplicativo Flutter que tem uma tela principal chamada Homepage. Nessa
+tela, os usuários podem inserir a UF, a cidade e o bairro para buscar endereços
+correspondentes. O aplicativo se comunica com a API do ViaCEP para obter os detalhes dos
+endereços e exibi-los na tela.
 
 ## Getting Started
 
